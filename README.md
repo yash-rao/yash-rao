@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yash-rao
-- 👀 I’m interested in Code Development
+- 👀 I’m interested in Web Development, Competitive Programming
 - 🌱 I’m currently learning Python DRF
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
